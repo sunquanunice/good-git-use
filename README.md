@@ -5,7 +5,7 @@
 
  	`git config --global core.editor 'subl -n -w'`
 
- - Then create a template file for the git commit message, such as .gitmessage.text that looks like this:
+ - Then create a template file for the git commit message, such as `.gitmessage.txt` that looks like this:
 ```
  	Subject line
 
