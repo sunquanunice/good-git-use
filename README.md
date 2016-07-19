@@ -6,13 +6,13 @@
  	`git config --global core.editor 'subl -n -w'`
 
  - Then create a template file for the git commit message, such as .gitmessage.text that looks like this:
-----
+```
  	Subject line
 
  	 What happened and why
 
  	 [Ticket : #x]
-----
+```
  - Finally configure the commit.template with the template file :
 
  	`git config --global commit.template ~/.gitmessage.txt`
