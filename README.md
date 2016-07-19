@@ -1,6 +1,6 @@
 # good-git-use
 ## [How to Write a Git Commit Message](http://chris.beams.io/posts/git-commit/)
-== [How to config for a template of git commit message](https://git-scm.com/book/en/v2/Customizing-Git-Git-Configuration)
+# [How to config for a template of git commit message](https://git-scm.com/book/en/v2/Customizing-Git-Git-Configuration)
  - First set an editor for git commit message in replace of git commit -m :
 
  	`git config --global core.editor 'subl -n -w'`
